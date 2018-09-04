@@ -1,0 +1,15 @@
+{
+    "pcn":{
+        "IP":"127.0.0.1",
+        "PORT":29598,
+        "USR":"server2018",
+        "PWD":"eGMmx3LwPSGB1xT"
+    },
+    "pxn":{
+        "IP":"127.0.0.1",
+        "PORT":29601,
+        "USR":"server2018",
+        "PWD":"eGMmx3LwPSGB1xT"
+    },
+    "commands":["register","checkbalance","swapstatus","getpxn","getpeerinfo"]
+}

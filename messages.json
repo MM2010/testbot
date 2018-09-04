@@ -1,0 +1,13 @@
+{
+    "db":{
+        "transaction":{
+            
+        }
+    },
+    "swap":{
+        "register":{
+            "duplicateUser":"Username already registered. You're PCN address is "
+        }
+    },
+    "error":{}  
+}
