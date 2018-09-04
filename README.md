@@ -1,2 +1,2 @@
 # testbot
-Basica test 
+Basic test 
